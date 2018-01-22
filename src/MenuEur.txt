@@ -1,0 +1,4 @@
+Jajko 1,20
+zupa 1,92
+kotlet 1,44
+jogurt 0,48

@@ -1,0 +1,4 @@
+Jajko 5
+zupa 8
+kotlet 6
+jogurt 2
