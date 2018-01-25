@@ -1,0 +1,14 @@
+MaciekWawrzyniak	Groovy
+MaciekWawrzyniak1	Groovy
+MaciekWawrzyniak2	Groovy
+MaciekWawrzyniak3	Groovy
+MaciekWawrzyniak1	Grails
+MaciekWawrzyniak2	Grails
+MaciekWawrzyniak3	Grails
+MaciekWawrzyniak3	Java
+MaciekWawrzyniak1	Java
+MaciekWawrzyniak4	Java
+MaciekWawrzyniak	JEE
+MaciekWawrzyniak4	JEE
+MaciekWawrzyniak2	JEE
+MaciekWawrzyniak3	JEE
