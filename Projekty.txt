@@ -1,4 +1,5 @@
-Groovy	JA	ON	ONA	ONI
-Grails	ON
-Java	ONA	ON	JA
-JEE	TEN	ON	ONI
+Groovy	MaciekWawrzyniak	MaciekWawrzyniak1	MaciekWawrzyniak2	MaciekWawrzyniak3
+Grails	MaciekWawrzyniak1	MaciekWawrzyniak2	MaciekWawrzyniak3
+Java	MaciekWawrzyniak3	MaciekWawrzyniak1	MaciekWawrzyniak4
+JA
+JEE	MaciekWawrzyniak	MaciekWawrzyniak4	MaciekWawrzyniak2	MaciekWawrzyniak3
